@@ -1,2 +1,4 @@
 # myFactorio
-All my factorio stuff i could make online to save them
+
+> [!NOTE]
+> Everything is about the game called `Factorio` in this repo
